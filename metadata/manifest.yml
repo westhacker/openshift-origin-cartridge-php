@@ -23,6 +23,7 @@ License-Url: http://www.php.net/license/3_0.txt
 Vendor: php.net
 Cartridge-Version: 0.0.28
 Source-Url: https://github.com/westhacker/openshift-origin-cartridge-php.git
+Cartridge-Vendor: westhacker
 Compatible-Versions:
 - 0.0.20
 - 0.0.21
